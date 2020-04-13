@@ -1,0 +1,2 @@
+# HiveQueries
+Hive Example
